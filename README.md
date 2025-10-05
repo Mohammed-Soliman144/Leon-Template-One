@@ -4,11 +4,9 @@
 
 "Landing Page with navigation bar and reponsive design"
 
-
 "## Live Demo"
 
-"**[view live demo here](https://mohammed-soliman144/github.io/leon-template-one/)**"
-
+"**[view live demo here](https://mohammed-soliman144.github.io/leon-template-one/)**"
 
 "### Features"
 
@@ -18,15 +16,10 @@
 
 "** Smooth Scrolling: ** scrolling to each section in smoothly way"
 
-
 "## Technologies Used"
-
 "HTML5"
-
 "CSS3"
-
 "JAVASCRIPT (ES6+)"
-
 
 "## How To Run Locally or Download"
 
@@ -36,7 +29,6 @@
 
 "**Open index.html** in your web browser"
 
-
 "## Author"
 
 "**Mohammed Soliman**"
@@ -45,9 +37,9 @@
 
 "**[Business Email](mohammed-soliman144@gmail.com)**"
 
-
 "## License"
 
 "This Project is licensed under the MIT License."
+
 
 
