@@ -10,11 +10,11 @@ Landing Page with navigation bar and reponsive design
 
 ### Features
 
-** responsive design:** works seamlessly on desktops, tablets and smart phones
+**1-responsive design:** works seamlessly on desktops, tablets and smart phones
 
-** interactive UI:** built with HTML, CSS and modern JavaScript for achieve valuable user experience
+**2-interactive UI:** built with HTML, CSS and modern JavaScript for achieve valuable user experience
 
-** Smooth Scrolling: ** scrolling to each section in smoothly way
+**3-Smooth Scrolling:** scrolling to each section in smoothly way
 
 ## Technologies Used
 
@@ -43,3 +43,4 @@ JAVASCRIPT (ES6+)
 ## License
 
 This Project is licensed under the MIT License.
+
