@@ -18,11 +18,11 @@ Landing Page with navigation bar and reponsive design
 
 ## Technologies Used
 
-HTML5
+**HTML5**
 
-CSS3
+**CSS3**
 
-JAVASCRIPT (ES6+)
+**JAVASCRIPT (ES6+)**
 
 ## How To Run Locally or Download
 
@@ -43,5 +43,3 @@ JAVASCRIPT (ES6+)
 ## License
 
 This Project is licensed under the MIT License.
-
-
