@@ -26,9 +26,9 @@ JAVASCRIPT (ES6+)
 
 ## How To Run Locally or Download
 
-** Clone the repo:** git clone https://github.com/mohammed-soliman144/Leon-Template-One.git
+**Clone the repo:** git clone https://github.com/mohammed-soliman144/Leon-Template-One.git
 
-** Navigate To The Project directory:** cd Leon-Template-One
+**Navigate To The Project directory:** cd Leon-Template-One
 
 **Open index.html** in your web browser
 
@@ -43,4 +43,5 @@ JAVASCRIPT (ES6+)
 ## License
 
 This Project is licensed under the MIT License.
+
 
